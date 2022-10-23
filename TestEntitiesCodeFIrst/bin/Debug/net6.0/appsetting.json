@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=DESKTOP-3OGUVMM;Database=TestEntities;Trusted_Connection=True;"
+  }
+}
